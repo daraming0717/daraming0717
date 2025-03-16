@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=5191CE&text=Park%20Gyuri)
+<p align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5191CE&fontColor=0F1035&height=200&section=header&text=Park%20Gyuri&fontSize=70"/>
+</p>
+
 
 <div align="center">
-
   <img src="https://github-readme-stats.vercel.app/api?username=daraming0717&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daraming0717&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
@@ -21,11 +23,11 @@
 ---
 
 <div align="center">
-  <a href="[https://daraming0717.tistory.com/]">
-    <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:rbfl0403@gmail.com">
-    <img
-      src="https://img.shields.io/badge/rbfl0403@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+<!-- badge -->
+<p align='center'>
+  <!-- gmail -->
+  <img src="https://img.shields.io/badge/rbfl0403@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  <!-- Tistory -->
+  <a href="https://daraming.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+</p>
 </div>
