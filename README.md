@@ -15,9 +15,10 @@
 
 <div align="center">
   <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
-  <img alt="Csharp" src ="https://img.shields.io/badge/Csharp-37008C.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/>
+  <img alt="Csharp" src ="https://img.shields.io/badge/Csharp-178600.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/>
   <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+  <img alt="Jupyter" src ="https://img.shields.io/badge/jupyter-DA5B0B.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>
 </div>
 
 ---
